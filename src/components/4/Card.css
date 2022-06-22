@@ -1,0 +1,13 @@
+.cardWrapper {
+    width: 160px;
+    height: 180px;
+    box-shadow: 5px 5px 5px 0px rgba(179, 179, 179, 0.75);
+    margin: 5px;
+}
+.cardImage {
+    width: 100px;
+    height: 100px;
+}
+.cardName {
+    font-size: 14px;
+}
